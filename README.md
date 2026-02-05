@@ -132,19 +132,6 @@ Any model available through Ollama works:
 
 **Result:** 19-page professional analysis vs. 8-page basic list.
 
-## Training Materials
-
-The `training/` directory contains everything needed to run a prompt engineering workshop:
-
-| File | Purpose |
-|------|---------|
-| `TRAINING_OUTLINE.md` | Full 28-slide Marp presentation (50-60 min) |
-| `QUICK_REFERENCE_CARD.md` | Printable double-sided desk reference |
-| `SPEAKER_NOTES.md` | Slide-by-slide talking points and timing |
-| `DESIGN_GUIDE.md` | Visual design specs for custom slide decks |
-
-The PDFs (`Short Prompt.pdf` and `Long Prompt.pdf`) show real before/after report comparisons.
-
 ## Project Structure
 
 ```
