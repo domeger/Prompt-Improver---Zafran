@@ -5,7 +5,6 @@
          width="640" height="360" />
     <br><br>
     <strong>▶ Click to watch the full video</strong><br>
-    (or add your own description here, like "My project demo – 3 minutes")
   </a>
 </p>
 
