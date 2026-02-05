@@ -1,3 +1,6 @@
+[![Your Video Title or "Watch the Demo"](https://img.youtube.com/vi/o8--6x78Y8s/maxresdefault.jpg)](https://youtu.be/o8--6x78Y8s)
+
+
 # Prompt Improver
 
 An interactive CLI tool that transforms simple prompts into comprehensive, professional-quality prompts using local LLMs. Built on the **8 Pillars of Effective Prompts** framework.
