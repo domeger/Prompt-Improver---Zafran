@@ -1,4 +1,13 @@
-[![Your Video Title or "Watch the Demo"](https://img.youtube.com/vi/o8--6x78Y8s/maxresdefault.jpg)](https://youtu.be/o8--6x78Y8s)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=o8--6x78Y8s">
+    <img src="https://img.youtube.com/vi/o8--6x78Y8s/maxresdefault.jpg" 
+         alt="Watch my YouTube video" 
+         width="640" height="360" />
+    <br><br>
+    <strong>▶ Click to watch the full video</strong><br>
+    (or add your own description here, like "My project demo – 3 minutes")
+  </a>
+</p>
 
 
 # Prompt Improver
