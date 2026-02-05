@@ -199,6 +199,3 @@ This project is licensed under the **MIT License** -- see [LICENSE](LICENSE) for
 
 The MIT License covers the code, prompt templates, and training materials. You are free to use, modify, and distribute everything in this repository, including the prompt engineering framework and system prompts, for any purpose.
 
----
-
-Built with [Ollama](https://ollama.com) | Powered by local LLMs | No data leaves your machine
