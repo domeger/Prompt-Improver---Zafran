@@ -2,6 +2,7 @@
 
 An interactive CLI tool that transforms simple prompts into comprehensive, professional-quality prompts using local LLMs. Built on the **8 Pillars of Effective Prompts** framework.
 
+> Simple prompts produce simple outputs. Structured prompts produce professional intelligence.
 
 ## What It Does
 
